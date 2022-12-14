@@ -119,6 +119,10 @@
   color: #2c3640 !important;
  }
 
+ .bi-trash{
+  color: #d16a6a;
+ }
+
  #mmenu_screen > div > div.col-sm-10.h-100 > div > div > div > div > nav > div > form > button{
   margin-right: 5px;
  }
@@ -137,5 +141,31 @@
 .btn_container{
   text-align: right;
     margin-left: 342px;
-} 
+}
+
+.bg-light.border{
+    border-radius: 15px;
+}
+
+table > tbody > tr > td:nth-child(3) {
+  width: 70%;
+}
+
+.user_email{
+  color: #2c3640 !important;
+}
+
+.btn-outline-secondary{
+  font-family: 'Outfit', sans-serif;
+  padding: 20px 20px;
+  border-radius: 15px;
+}
+
+.modal_content{
+  display: inline-flex;
+  width: 100%;
+  column-gap: 12px;
+  padding-bottom: 20px;
+}
+
 /*End*/
